@@ -1,0 +1,7 @@
+package com.crickbuzz.enum;
+
+public enum UmpireType {
+    FIELD,
+    TV,
+    RESERVE
+}
